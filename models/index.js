@@ -8,7 +8,7 @@ require('./task.model')
 // require('./project.model')
 
 /*
-this is so you can say later on 
+this is so you can say later on
 var models = require('../models')
 
 models('Task').find()
